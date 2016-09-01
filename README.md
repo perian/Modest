@@ -1,2 +1,2 @@
 # Modest
-https://perian.github.io/Modest/
+https://perian.github.io/modest/
